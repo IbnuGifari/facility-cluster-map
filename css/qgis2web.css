@@ -198,3 +198,15 @@
         .leaflet-control-layers-expanded .leaflet-control-layers-toggle {
             display: none;
         }
+        #map-description {
+            position: absolute;
+            bottom: 20px;
+            right: 20px;
+            background: white;
+            padding: 12px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.2);
+            max-width: 250px;
+            font-size: 12px;
+            z-index: 1000;
+        }
