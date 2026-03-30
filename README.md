@@ -2,7 +2,7 @@
 
 An interactive Web GIS application for visualizing the distribution of public facilities (schools, hospitals, and sports facilities) alongside spatial clustering results.
 
-> **Live Demo:** [Add your GitHub Pages link here]
+> **Live Demo:** https://ibnugifari.github.io/facility-cluster-map
 
 ---
 
