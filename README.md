@@ -42,10 +42,6 @@ The map is built from geospatial data processed in QGIS and rendered in the brow
 ├── css/
 ├── js/
 ├── data/
-│   ├── boundary.geojson
-│   ├── fasilitas_sekolah.geojson
-│   ├── fasilitas_rs.geojson
-│   └── fasilitas_olahraga.geojson
 └── layers/
 ```
 
